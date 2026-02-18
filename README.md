@@ -1,4 +1,4 @@
 
 
 <p align="center">
-<image> https://files.catbox.moe/mxmquu.jpg
+<img src=https://files.catbox.moe/mxmquu.jpg width="300" height="600">
